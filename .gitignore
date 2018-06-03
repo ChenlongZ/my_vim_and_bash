@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But those files...
+!.gitignore
+!.vimrc
+
+# And those directories
+!.vim/
+
+
+
